@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "quizAppTitle": "Khmer Quiz App",
+  "questionNumber": "Question {current} / {total}",
+  "question": "Question - Answer",
+  "nextQuestion": "Next Question",
+  "viewResults": "View Results",
+  "questionSaved": "Question saved!",
+  "questionRemovedFromSaved": "Question removed from saved!",
+  "questionAlreadySaved": "Question already saved!",
+  "addedToFavorites": "Added to favorites!",
+  "removedFromFavorites": "Removed from favorites!",
+  "noQuestionsAvailable": "No questions available for this category or an error occurred.",
+  "leaderboard": "Leaderboard",
+  "savedQuestionsTitle": "Saved",
+  "favoriteQuestionsTitle": "Favorite",
+  "reportTitle": "Report",
+  "appTagline": "A game to cultivate wisdom\nand enhance knowledge"
+}

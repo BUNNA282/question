@@ -1,0 +1,19 @@
+{
+  "@@locale": "km",
+  "quizAppTitle": "កម្មវិធីសំណួរខ្មែរ",
+  "questionNumber": "សំណួរទី {current} / {total}",
+  "question": "សំណួរ - ចម្លើយ",
+  "nextQuestion": "សំណួរបន្ទាប់",
+  "viewResults": "មើលលទ្ធផល",
+  "questionSaved": "សំណួរត្រូវបានរក្សាទុក!",
+  "questionRemovedFromSaved": "បានលុបចេញពីសំណួរដែលបានរក្សាទុក!",
+  "questionAlreadySaved": "សំណួរនេះត្រូវបានរក្សាទុកហើយ!",
+  "addedToFavorites": "បានបន្ថែមទៅសំណួរចូលចិត្ត!",
+  "removedFromFavorites": "បានលុបចេញពីសំណួរដែលចូលចិត្ត!",
+  "noQuestionsAvailable": "គ្មានសំណួរសម្រាប់ប្រភេទនេះ ឬមានកំហុសកើតឡើង។",
+  "leaderboard": "តារាងពិន្ទុ",
+  "savedQuestionsTitle": "បានរក្សាទុក",
+  "favoriteQuestionsTitle": "ចូលចិត្ត",
+  "reportTitle": "របាយការណ៍",
+  "appTagline": "ហ្គេមបណ្តុះប្រាជ្ញា\nនិងបង្កើនចំណេះដឹង"
+}
