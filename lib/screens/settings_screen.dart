@@ -131,7 +131,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           ),
                           const SizedBox(height: 10),
                           Text(
-                            'បង្កើតដោយ: [B.N]',
+                            'បង្កើតដោយ: [NG.BUNNA]',
                             style: TextStyle(
                               fontSize: 16,
                               color: AppColors.primaryDarkBlue.withOpacity(0.8),
